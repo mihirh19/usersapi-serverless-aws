@@ -45,7 +45,7 @@ def get_users():
 
 def scan_dynamo_records(scan_params, item_array):
     response = dynamodb_table.scan(**scan_params)
-    item_array.extend(response.get('Items', []))``
+    item_array.extend(response.get('Items', []))
    
     if 'LastEvaluatedKey' in response:
         scan_params['ExclusiveStartKey'] = response['LastEvaluatedKey']
