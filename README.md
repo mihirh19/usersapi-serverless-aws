@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://socialify.git.ci/mihirh19/usersapi-serverless-aws/image?description=1&amp;descriptionEditable=Serverless%20REST%20API&amp;forks=1&amp;issues=1&amp;language=1&amp;logo=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Faws-amazon-web-services.jpg&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/mihirh19/usersapi-serverless-aws/image?description=1&descriptionEditable=Serverless%20REST%20API&forks=1&issues=1&language=1&logo=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Faws-amazon-web-services.jpg&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Light" alt="project-image"></p>
 <h2> Architecture</h2>
 
 ![](arcti.png)
