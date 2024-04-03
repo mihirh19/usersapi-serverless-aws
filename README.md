@@ -8,17 +8,21 @@
 <p id="description">Create a powerful and scalable REST API effortlessly with our step-by-step guide on utilizing AWS Lambda API Gateway and DynamoDB in a serverless architecture. Streamline your backend development and deployment and unlock the potential of serverless computing for your next project.</p>
 
 
+## Documentation
+
+<a href="https://documenter.getpostman.com/view/22926184/2s93RUtBH8" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+
+
+
+
 <h2>🚀 Demo</h2>
 
 
   [](https://github.com/mihirh19/usersapi-serverless-aws/assets/128199131/d25d9fef-87a6-477f-876f-bb380ac94907)
   
-<h2>🧐 Features</h2>
 
-Here're some of the project's best features:
-
-*   serverless
-*   scalable
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -43,4 +47,17 @@ Technologies used in the project:
 *   dynamodb
 *   aws lambda
 *   aws Api gateway
+
+## Author
+
+👤 **Mihir Hadavani**
+
+* Twitter: [@mihirh21](https://twitter.com/mihirh21)
+* Github: [@mihirh19](https://github.com/mihirh19)
+* LinkedIn: [@mihir-hadavani-996263232](https://linkedin.com/in/mihir-hadavani-996263232)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
 
