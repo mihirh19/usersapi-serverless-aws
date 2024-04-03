@@ -10,7 +10,7 @@
 
 ## Documentation
 
-<a href="https://documenter.getpostman.com/view/22926184/2s93RUtBH8" target="_blank">
+<a href="https://documenter.getpostman.com/view/22926184/2sA35K1Kqj" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 
